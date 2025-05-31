@@ -1,0 +1,8 @@
+for $d in doc("large-data.xml")/data/d
+return
+    <d>
+        <id>{$d/id/text()}</id>
+        <a1>{$d/a1/text()}</a1>
+        <a2>{$d/a2/text()}</a2>
+        <a6>{$d/a6/text()}</a6>
+    </d>

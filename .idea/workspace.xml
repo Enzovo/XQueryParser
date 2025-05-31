@@ -1,0 +1,318 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="37c16ebb-4801-49b3-88fc-cf9406b1aa29" name="更改" comment="rewriter_update_2(return_clause_format?)">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/XPathParser.zip" beforeDir="false" afterPath="$PROJECT_DIR$/XPathParser.zip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/XPathParser/src/MyParser.java" beforeDir="false" afterPath="$PROJECT_DIR$/XPathParser/src/MyParser.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/XPathParser/src/XQueryJoinOptimizer.java" beforeDir="false" afterPath="$PROJECT_DIR$/XPathParser/src/XQueryJoinOptimizer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/XPathParser/src/antlr/XPath.interp" beforeDir="false" afterPath="$PROJECT_DIR$/XPathParser/src/antlr/XPath.interp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/XPathParser/src/antlr/XPath.tokens" beforeDir="false" afterPath="$PROJECT_DIR$/XPathParser/src/antlr/XPath.tokens" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/XPathParser/src/antlr/XPathBaseListener.java" beforeDir="false" afterPath="$PROJECT_DIR$/XPathParser/src/antlr/XPathBaseListener.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/XPathParser/src/antlr/XPathLexer.interp" beforeDir="false" afterPath="$PROJECT_DIR$/XPathParser/src/antlr/XPathLexer.interp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/XPathParser/src/antlr/XPathLexer.java" beforeDir="false" afterPath="$PROJECT_DIR$/XPathParser/src/antlr/XPathLexer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/XPathParser/src/antlr/XPathLexer.tokens" beforeDir="false" afterPath="$PROJECT_DIR$/XPathParser/src/antlr/XPathLexer.tokens" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/XPathParser/src/antlr/XPathListener.java" beforeDir="false" afterPath="$PROJECT_DIR$/XPathParser/src/antlr/XPathListener.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/XPathParser/src/antlr/XPathParser.java" beforeDir="false" afterPath="$PROJECT_DIR$/XPathParser/src/antlr/XPathParser.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/XPathParser/src/result.xml" beforeDir="false" afterPath="$PROJECT_DIR$/XPathParser/src/result.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="milestone3" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Enzovo&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/WHao-0923/XQuery.git&quot;,
+    &quot;accountId&quot;: &quot;d2997df1-0752-4480-a12e-08c0d13e31cc&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 5
+}</component>
+  <component name="ProjectId" id="2scLkq1Jf4W6F1whNcWa0oP12c2" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "JAR 应用程序.Main.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "milestone3",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "E:/UCSD/25winter/232b_database/repo_w_gavin/XQuery/XPathParser/src/antlr/antlr-4.13.2-complete.jar",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "onboarding.tips.debug.path": "E:/UCSD/25winter/232b_database/repo_w_gavin/XQuery/src/Main.java",
+    "project.structure.last.edited": "项目",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "vue.rearranger.settings.migration": "true",
+    "应用程序.Main.executor": "Run"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\UCSD\25winter\232b_database\repo_w_gavin\XQuery\XPathParser\src" />
+      <recent name="E:\UCSD\25winter\232b_database\repo_w_gavin\XQuery\XPathParser\src\antlr" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\UCSD\25winter\232b_database\repo_w_gavin\XQuery\XPathParser\src\antlr" />
+      <recent name="E:\UCSD\25winter\232b_database\repo_w_gavin\XQuery\XPathParser\src" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="XQuery" />
+      <option name="PROGRAM_PARAMETERS" value="XPathParser/src/large-data.xml XPathParser/src/example1.txt XPathParser/src/rewritequery.txt XPathParser/src/result.xml" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="应用程序.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="37c16ebb-4801-49b3-88fc-cf9406b1aa29" name="更改" comment="" />
+      <created>1738750063084</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1738750063084</updated>
+      <workItem from="1738750459220" duration="991000" />
+      <workItem from="1738751911334" duration="4882000" />
+      <workItem from="1738815023806" duration="5753000" />
+      <workItem from="1738832079185" duration="75000" />
+      <workItem from="1738832161786" duration="11000" />
+      <workItem from="1738833787747" duration="29000" />
+      <workItem from="1738833824274" duration="134000" />
+      <workItem from="1738833972884" duration="707000" />
+      <workItem from="1738835030575" duration="1104000" />
+      <workItem from="1738836200520" duration="650000" />
+      <workItem from="1738837162782" duration="658000" />
+      <workItem from="1738837941088" duration="3335000" />
+      <workItem from="1738841389182" duration="706000" />
+      <workItem from="1738842156974" duration="1378000" />
+      <workItem from="1738844660459" duration="883000" />
+      <workItem from="1738845656444" duration="1117000" />
+      <workItem from="1738846794661" duration="673000" />
+      <workItem from="1738847762868" duration="1568000" />
+      <workItem from="1738850117023" duration="1286000" />
+      <workItem from="1738851441050" duration="356000" />
+      <workItem from="1738852045568" duration="1726000" />
+      <workItem from="1738853998239" duration="985000" />
+      <workItem from="1738855004073" duration="1124000" />
+      <workItem from="1738857154084" duration="335000" />
+      <workItem from="1738857664545" duration="765000" />
+      <workItem from="1738858665343" duration="629000" />
+      <workItem from="1738903898579" duration="6037000" />
+      <workItem from="1738921199929" duration="947000" />
+      <workItem from="1738922331599" duration="1271000" />
+      <workItem from="1738923622682" duration="2500000" />
+      <workItem from="1738926287969" duration="1214000" />
+      <workItem from="1738928600403" duration="298000" />
+    </task>
+    <task id="LOCAL-00001" summary="try_intellij">
+      <option name="closed" value="true" />
+      <created>1739858381760</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1739858381760</updated>
+    </task>
+    <task id="LOCAL-00002" summary="g_file_update_1">
+      <option name="closed" value="true" />
+      <created>1739861625052</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1739861625052</updated>
+    </task>
+    <task id="LOCAL-00003" summary="g_file_update_2">
+      <option name="closed" value="true" />
+      <created>1739870429107</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1739870429107</updated>
+    </task>
+    <task id="LOCAL-00004" summary="signature_update_1">
+      <option name="closed" value="true" />
+      <created>1739875690380</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1739875690380</updated>
+    </task>
+    <task id="LOCAL-00005" summary="cond_done_1_helper_function_has_bug__FRFLWR_case">
+      <option name="closed" value="true" />
+      <created>1740054663507</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1740054663507</updated>
+    </task>
+    <task id="LOCAL-00006" summary="fixing_bug_in_recursion">
+      <option name="closed" value="true" />
+      <created>1740073661367</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1740073661367</updated>
+    </task>
+    <task id="LOCAL-00007" summary="fixing_bug_in_recursion_2">
+      <option name="closed" value="true" />
+      <created>1740114796938</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1740114796938</updated>
+    </task>
+    <task id="LOCAL-00008" summary="fixing_bug_in_recursion_3">
+      <option name="closed" value="true" />
+      <created>1740330005532</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1740330005532</updated>
+    </task>
+    <task id="LOCAL-00009" summary="format_debug_1">
+      <option name="closed" value="true" />
+      <created>1740528149030</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1740528149030</updated>
+    </task>
+    <task id="LOCAL-00010" summary="format_debug_2">
+      <option name="closed" value="true" />
+      <created>1740606881937</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1740606881937</updated>
+    </task>
+    <task id="LOCAL-00011" summary="milestone2_DONE">
+      <option name="closed" value="true" />
+      <created>1740682025532</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1740682025532</updated>
+    </task>
+    <task id="LOCAL-00012" summary="milestone2_DONE_2">
+      <option name="closed" value="true" />
+      <created>1740682429716</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1740682429716</updated>
+    </task>
+    <task id="LOCAL-00013" summary="rewriter_update_1">
+      <option name="closed" value="true" />
+      <created>1741695434230</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1741695434230</updated>
+    </task>
+    <task id="LOCAL-00014" summary="rewriter_update_2(return_clause_format?)">
+      <option name="closed" value="true" />
+      <created>1741696753962</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1741696753962</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="try_intellij" />
+    <MESSAGE value="g_file_update_1" />
+    <MESSAGE value="g_file_update_2" />
+    <MESSAGE value="signature_update_1" />
+    <MESSAGE value="cond_done_1_helper_function_has_bug__FRFLWR_case" />
+    <MESSAGE value="fixing_bug_in_recursion" />
+    <MESSAGE value="fixing_bug_in_recursion_2" />
+    <MESSAGE value="fixing_bug_in_recursion_3" />
+    <MESSAGE value="format_debug_1" />
+    <MESSAGE value="format_debug_2" />
+    <MESSAGE value="milestone2_DONE" />
+    <MESSAGE value="milestone2_DONE_2" />
+    <MESSAGE value="rewriter_update_1" />
+    <MESSAGE value="rewriter_update_2(return_clause_format?)" />
+    <option name="LAST_COMMIT_MESSAGE" value="rewriter_update_2(return_clause_format?)" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Main.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/XQuery$Main.ic" NAME="Main 覆盖结果" MODIFIED="1740068005722" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="true" />
+  </component>
+</project>

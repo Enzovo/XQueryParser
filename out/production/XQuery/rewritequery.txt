@@ -1,0 +1,10 @@
+for $tuple in (
+for $d in doc("large-data.xml")/data/d
+return <tuple> <d>{$d}</d> </tuple>
+)
+return <d>
+        <id>{$tuple/d/*/id/text()}</id>
+        <a1>{$tuple/d/*/a1/text()}</a1>
+        <a2>{$tuple/d/*/a2/text()}</a2>
+        <a6>{$tuple/d/*/a6/text()}</a6>
+    </d>
